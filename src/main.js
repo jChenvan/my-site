@@ -1,5 +1,6 @@
 import './style.css'
 import scrollAnimation from './scrollAnimation'
+import Slideshow from './slideshow';
 
 let lastScrollPos;
 const scrollFactor = 0.002;
